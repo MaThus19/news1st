@@ -1,0 +1,171 @@
+body {
+   
+}
+
+
+.d1 {
+    height: 58px;
+    width: 95px;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+
+    text-decoration: none;
+    justify-content: space-between;
+    padding: 10px 10px;
+}
+
+li a:hover {
+    background-color: rgb(20, 25, 20);
+}
+
+.active img {
+    justify-self: center;
+    filter: invert(100%);
+}
+
+.d3 {
+    border: 1px;
+
+    width: 20%;
+}
+
+.d4 {
+width: 70%;
+background-color: rgb(255, 255, 255)
+}
+
+.f2 {
+    border: 2.5px solid #DDD;;
+    
+    background-color: rgb(255, 255, 255)
+}
+
+.f3 {
+    font-family: Consolas;
+}
+.s4{
+    width: 100%;
+    
+}
+.c5{
+    background-color: #333;
+ border: 0px;
+    color:  rgb(255, 255, 255);
+}
+
+.f4 {
+    text-decoration: none;
+    color: #333;
+}
+.f7{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+.f8{
+    color: #DDD;
+    background-color: rgb(195, 195, 195);
+}
+.d5 {
+
+    width: 20%;
+}
+
+.d2 {
+    justify-content: space-around;
+    display: flex;
+}
+
+.f1 {
+    font-size: 20px;
+    width: 191px;
+    height: 48px;
+    background-color: #333;
+    color: ghostwhite;
+    text-align: center;
+
+}
+.s5{
+    
+}
+.t1{
+    
+    font-size: 16px;
+    border: 1px solid  rgb(195, 195, 195);
+}
+
+.c1 {
+
+    flex-grow: 2;
+    justify-content: space-between;
+
+
+}
+
+ul {
+    display: flex;
+    align-items: center;
+
+}
+
+.c2 {
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+}
+
+.main {
+    display: flex;
+    background-color: #333;
+}
+
+li {
+    display: flex;
+}
+.s1{
+    justify-content: space-evenly;
+    bottom: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1.5px solid #DDD;
+}
+.s2{
+    color: red;
+    font-size: 12px;
+    
+  
+}
+.s3{
+    
+    font-size: 10px;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #DDD;
+  }
+  .b1 {
+    background-color: rgb(192, 52, 52);
+    width: 100%;
+    height: 45px;
+    font-size: 20px;
+    border: 0px;
+    
+  }
+  .b2{
+    color: #DDD;
+    text-decoration: none;
+  }
